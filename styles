@@ -1,10 +1,10 @@
 body {
-    background-color: #a7c5ee;
+    background-color: #000000;
     font-family: sans-serif;
 }
 
 .assignment {
-    background-color: #444;
+    background-color: #a7c5ee;
 }
 
 p {
@@ -12,13 +12,13 @@ p {
 }
 
 h1 {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-align: center;
-    background-color: #444;
+    background-color: #a7c5ee;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 a {
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
